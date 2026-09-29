@@ -1,0 +1,15 @@
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\bin\Debug\net10.0\SimpleRPG.exe
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\bin\Debug\net10.0\SimpleRPG.deps.json
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\bin\Debug\net10.0\SimpleRPG.runtimeconfig.json
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\bin\Debug\net10.0\SimpleRPG.dll
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\bin\Debug\net10.0\SimpleRPG.pdb
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.AssemblyInfoInputs.cache
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.AssemblyInfo.cs
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.sourcelink.json
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.dll
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\refint\SimpleRPG.dll
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.pdb
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\SimpleRPG.genruntimeconfig.cache
+C:\Users\Karthik GS\OneDrive\Desktop\Codes\C#\My-first-game\SimpleRPG\obj\Debug\net10.0\ref\SimpleRPG.dll
